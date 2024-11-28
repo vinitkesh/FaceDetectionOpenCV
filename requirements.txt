@@ -1,7 +1,6 @@
-opencv-python
-deepface
 streamlit
 opencv-python-headless
-deepface
 numpy
-tensorflow-cpu
+deepface
+tensorflow>=2.6.0
+Pillow
