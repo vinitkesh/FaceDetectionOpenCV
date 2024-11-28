@@ -3,6 +3,5 @@ deepface
 streamlit
 opencv-python-headless
 deepface
-cv2
 numpy
 tensorflow-cpu
