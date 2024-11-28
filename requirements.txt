@@ -1,2 +1,7 @@
 opencv-python
 deepface
+streamlit
+opencv-python-headless
+deepface
+numpy
+tensorflow-cpu
